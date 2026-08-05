@@ -1,0 +1,13 @@
+// <?xml version='1.0' encoding='UTF-8'?>
+<yml_catalog date="2026-05-08 05:45">
+<shop>
+<offers>
+<offer id="cxx1" available="true"?
+<price>100</price>
+<vat>22</vat>
+<outlets>
+<outlet id="Зефиркин склад" instock="10"/>
+</outlets>
+</offer>
+</shop>
+</yml_catalog>

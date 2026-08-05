@@ -3,28 +3,28 @@
 <shop>
 <offers>
 <offer id="qwwww1" available="true">
-<price>10</price>
+<price>100</price>
 <vat>22</vat>
 <outlets>
 <outlet id="Зефиркин склад" instock="10"/>
 </outlets>
 </offer>
 <offer id="qwwww2" available="false">
-<price>11</price>
+<price>200</price>
 <vat>VAT_10</vat>
 <instock>20</instock>
 </offer>
 <offer id="qwwww3" available="true">
-<price>12</price>
+<price>300</price>
 <vat>VAT_0</vat>
 <count>30</count>
 </offer>
 <offer id="qwwww4" available="true">
-<price>13</price>
+<price>400</price>
 <vat>VAT_5</vat>
 </offer>
 <offer id="qwwww5" available="false">
-<price>14</price>
+<price>500</price>
 <vat>VAT_7</vat>
 <outlets>
 <outlet id="Зефиркин склад" instock="1"/>

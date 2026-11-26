@@ -2,42 +2,42 @@
 <yml_catalog date="2026-05-08 05:45">
 <shop>
 <offers>
-<offer id="qwwww1" available="true">
+<offer id="perchiki1" available="true">
 <price>3000</price>
 <vat>22</vat>
 <outlets>
-<outlet id="Зефиркин склад" instock="10"/>
+<outlet id="Склад для регресса" instock="10"/>
 </outlets>
 </offer>
-<offer id="qwwww2">
+<offer id="perchiki2">
 <price>4000</price
 <vat>VAT_10</vat>
 <instock>йцйцйцйц</instock>
 </offer>
-<offer id="qwwww3" available="true">
+<offer id="perchiki3" available="true">
 <price>300</price>
 <vat>VAT_0</vat>
 <count>30</count>
 </offer>
-<offer id="qwwww4" available="true">
+<offer id="perchiki4" available="true">
 <price>400</price>
 <vat>VAT_5</vat>
 </offer>
-<offer id="qwwww5" available="false">
-<price>500</price>
+<offer id="perchiki5" available="false">
+<price>asfasdfa</price>
 <vat>VAT_7</vat>
 <outlets>
-<outlet id="Зефиркин склад" instock="1"/>
+<outlet id="Склад для регресса" instock="1"/>
 </outlets>
 </offer>
-<offer id="qwwww6" available="false">
+<offer id="perchiki6" available="false">
 </offer>
-<offer id="azzz1" available="true">
+<offer id="perchiki7" available="true">
 <price>400</price>
 <vat>VAT_5</vat>
 <count>30</count>
 </offer>
-<offer id="azzz2">
+<offer id="perchiki8">
 <instock>20</instock>
 </offer>
 </offers>

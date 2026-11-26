@@ -6,7 +6,7 @@
 <price>1001</price>
 </offer>
 <offer id="perchiki2" available="false">
-<vat>VAT_0</vat>
+<vat>22</vat>
 </offer>
 <offer id="perchiki3" available="true">
 <price>300</price>

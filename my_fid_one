@@ -7,7 +7,7 @@
 <vat>VAT_7</vat>
 </offer>
 <offer id="perchiki2">
-<vat>7</vat>
+<vat>VAT_22</vat>
 </offer>
 <offer id="perchiki3" available="true">
 <vat>VAT_5</vat>

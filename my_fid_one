@@ -4,22 +4,16 @@
 <offers>
 <offer id="perchiki1" available="true">
 <price>100</price>
-<vat>22</vat>
-<outlets>
-<outlet id="Склад для регресса" instock="10"/>
-</outlets>
 </offer>
 <offer id="perchiki2" available="false">
-<price>200</price>
-<vat>VAT_10</vat>
-<instock>20</instock>
+<vat>VAT_0</vat>
 </offer>
 <offer id="perchiki3" available="true">
 <price>300</price>
 <vat>VAT_0</vat>
 <count>30</count>
 </offer>
-<offer id="perchiki4" available="true">
+<offer id="perchiki4" available="false">
 <price>400</price>
 <vat>VAT_5</vat>
 </offer>

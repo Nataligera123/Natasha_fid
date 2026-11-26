@@ -38,6 +38,7 @@
 </offer>
 <offer id="perchiki8">
 <instock>20</instock>
+<vat>VAT_7</vat>
 </offer>
 </offers>
 </shop>

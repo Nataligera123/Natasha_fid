@@ -6,7 +6,7 @@
 <price>1002</price>
 <vat>VAT_7</vat>
 </offer>
-<offer id="perchiki2" available="false">
+<offer id="perchiki2" available="true">
 <vat>22</vat>
 <outlets>
 <outlet id="Склад для регресса" instock="1"/>

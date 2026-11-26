@@ -7,7 +7,6 @@
 <vat>VAT_22</vat>
 </offer>
 <offer id="perchiki2">
-<vat>VAT_22</vat>
 <outlets>
 <outlet id="Склад для регресса" instock="5000"/>
 </outlets>

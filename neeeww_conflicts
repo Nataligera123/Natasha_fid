@@ -33,7 +33,7 @@
 </offer>
 <offer id="perchiki7" available="true">
 <price>400</price>
-<vat>VAT_5</vat>
+<vat>VAT_18</vat>
 <count>30</count>
 </offer>
 <offer id="perchiki8">

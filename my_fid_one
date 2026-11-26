@@ -3,15 +3,17 @@
 <shop>
 <offers>
 <offer id="perchiki1" available="true">
-<price>1001</price>
+<price>1002</price>
+<vat>VAT_7</vat>
 </offer>
 <offer id="perchiki2" available="false">
 <vat>22</vat>
+<outlets>
+<outlet id="Склад для регресса" instock="1"/>
+</outlets>
 </offer>
 <offer id="perchiki3" available="true">
-<price>300</price>
-<vat>VAT_5</vat>
-<count>30</count>
+<vat>VAT_22</vat>
 </offer>
 <offer id="perchiki4" available="false">
 <price>400</price>

@@ -2,18 +2,18 @@
 <yml_catalog date="2026-05-08 05:45">
 <shop>
 <offers>
-<offer id="perchiki1" available="true">
+<offer id="qa2388-r06-onesize" available="true">
 <price>1002</price>
-<vat>VAT_22</vat>
+<count>50</count>
 </offer>
 <offer id="perchiki2">
 <outlets>
 <outlet id="Склад для регресса" instock="5000"/>
 </outlets>
 </offer>
-<offer id="perchiki3" available="true">
-<vat>VAT_5</vat>
-<count>50</count>
+<offer id="qa2388-l1-briefs-m-krasnyy" available="true">
+<price>1</price>
+<count>1</count>
 </offer>
 <offer id="perchiki4" available="false">
 <price>401</price>
